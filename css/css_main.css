@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+body {
+  background-image: url(../image/hp_bg_image15.jpg);
+  background-repeat: repeat-x;
+  padding: 1em center;
+}
+
+#wapper {
+  min-width: 320px;
+  background-color: rgba(255, 255, 255, 0.25);
+  color: #333333;
+  padding: 3em 5em;
+  margin: 3em;
+  line-height: 1.4;
+}
+
+#wapper h1 {
+  font-size: 3.6em;
+  text-align: center;
+  padding: 1em 0;
+}
+
+#wapper h2 {
+  font-size: 2em;
+  text-align: center;
+  padding: 1.2em 0 0;
+}
+
+#wapper h3 {
+  font-size: 1.2em;
+  padding: 1.6em 0 0.2em;
+}
+
+#wapper p {
+  font-size: 1em;
+  padding: 0.2em 1.2em;
+}
+
+#content {
+  padding: 1em;
+}
+
+#content img {
+  padding: 1.2em;
+}
+
+#link {
+  margin: 1.2em 0;
+}
+
+#pplink {
+  font-size: 1.2em;
+}
