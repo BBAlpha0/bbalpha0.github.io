@@ -52,3 +52,10 @@ body {
 #pplink {
   font-size: 1.2em;
 }
+
+#copyr {
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
