@@ -42,7 +42,11 @@ body {
 }
 
 #content img {
-  padding: 1.2em;
+  padding: 0 1.2em;
+}
+
+#content iframe {
+  padding: 1.5em 1.2em;
 }
 
 #link {
