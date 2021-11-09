@@ -49,6 +49,10 @@ body {
   padding: 1.5em 1.2em;
 }
 
+#appContent {
+  padding: 2em 0em;
+}
+
 #link {
   margin: 1.2em 0;
 }
